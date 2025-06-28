@@ -1,4 +1,4 @@
-return {
+{
 	["Id_70597362"] = { -- PaleHaze
 		Rank = math.huge,
 		Prefix = "CEO",
