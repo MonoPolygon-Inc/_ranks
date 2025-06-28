@@ -1,0 +1,16 @@
+{
+  "Id_70597362": {
+    "_USERNAME" : "PALEHAZE",
+    "Rank": "__math_huge__",
+    "Prefix": "CEO",
+    "PrefixColor": {
+      "__type": "Color3",
+      "r": 0.5843137502670288,
+      "g": 0.5843137502670288,
+      "b": 0.5843137502670288
+    },
+    "BrickBlast": {
+      "Admin": true
+    }
+  }
+}
