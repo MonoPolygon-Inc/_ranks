@@ -1,14 +1,13 @@
 {
+  "_comment": "Highest Authority",
+  
   "Id_70597362": {
     "_USERNAME" : "PALEHAZE",
-    "Rank": "__math_huge__",
-    "Prefix": "Test",
-    "PrefixColor": "#FFFFFF",
     "BrickBlast": {
-      "Admin": true
+      "IsDeveloper": true
     },
     "StandRumble": {
-      "Admin": true
+      "IsDeveloper": true
     }
   },
 
@@ -16,7 +15,10 @@
     "_USERNAME" : "WINDLESS",
     "Rank": "__math_huge__",
     "BrickBlast": {
-      "Admin": true
+      "IsDeveloper": true
+    },
+    "StandRumble": {
+      "IsDeveloper": true
     }
   },
 
@@ -24,7 +26,12 @@
     "_USERNAME" : "SSHARMM",
     "Rank": "__math_huge__",
     "BrickBlast": {
-      "Admin": true
+      "IsDeveloper": true
+    },
+    "StandRumble": {
+      "IsDeveloper": true
     }
-  }
+  },
+
+  "_comment": "Administrator"
 }
